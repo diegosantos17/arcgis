@@ -7,3 +7,7 @@ https://www.esri.com/pt-br/arcgis/trial
 ## ArcGIS for WPF
 http://help.arcgis.com/en/webapi/wpf/index.html \
 http://resources.arcgis.com/en/communities/runtime-wpf/
+
+
+## ArcGIS Runtime SDK for WPF
+http://resources.arcgis.com/en/communities/runtime-wpf/
