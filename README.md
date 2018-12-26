@@ -5,6 +5,7 @@ https://www.esri.com/news/arcnews/spring12articles/introducing-arcgis-101.html \
 https://www.esri.com/pt-br/arcgis/trial \
 https://developers.arcgis.com/ \
 https://developers.arcgis.com/net/latest/ \
+https://developers.arcgis.com/net/latest/wpf/sample-code/sample-code.htm \
 https://github.com/Esri/arcgis-runtime-samples-dotnet/tree/master
 
 ## GIS
