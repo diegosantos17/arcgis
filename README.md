@@ -4,6 +4,7 @@
 https://www.esri.com/news/arcnews/spring12articles/introducing-arcgis-101.html \
 https://www.esri.com/pt-br/arcgis/trial
 https://developers.arcgis.com/
+https://developers.arcgis.com/net/latest/
 
 ## GIS
 https://www.agiltec.com/o-que-e-gis/ \
