@@ -3,9 +3,12 @@
 # Referências
 https://www.esri.com/news/arcnews/spring12articles/introducing-arcgis-101.html \
 https://www.esri.com/pt-br/arcgis/trial
+https://developers.arcgis.com/
 
 ## GIS
-https://www.agiltec.com/o-que-e-gis/
+https://www.agiltec.com/o-que-e-gis/ \
+https://www.esri.com/en-us/what-is-gis/overview
+
 
 ## ArcGIS for WPF
 http://help.arcgis.com/en/webapi/wpf/index.html \
