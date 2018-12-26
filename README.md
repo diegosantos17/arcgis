@@ -2,9 +2,10 @@
 
 # Referências
 https://www.esri.com/news/arcnews/spring12articles/introducing-arcgis-101.html \
-https://www.esri.com/pt-br/arcgis/trial
-https://developers.arcgis.com/
-https://developers.arcgis.com/net/latest/
+https://www.esri.com/pt-br/arcgis/trial \
+https://developers.arcgis.com/ \
+https://developers.arcgis.com/net/latest/ \
+https://github.com/Esri/arcgis-runtime-samples-dotnet/tree/master
 
 ## GIS
 https://www.agiltec.com/o-que-e-gis/ \
